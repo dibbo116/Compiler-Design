@@ -1,0 +1,28 @@
+double = is a Double Data Type.
+main = is a Main Fuction.
+( = is a First Bracket Open.
+) = is a First Bracket Close.
+{ = is a Third Bracket Open.
+float = is a Float Data Type.
+c = is an Identifier.
+= = is an Equal Sign.
+12 = is a  Number.
+; = is Semicolon.
+int = is Integer Data Type.
+b = is an Identifier.
+= = is an Equal Sign.
+10.0 = is a Floating Point Number.
+; = is Semicolon.
+while = is a While loop.
+( = is a First Bracket Open.
+1 = is a  Number.
+) = is a First Bracket Close.
+{ = is a Third Bracket Open.
+a = is an Identifier.
+= = is an Equal Sign.
+b = is an Identifier.
++ = is a Plus Sign.
+c = is an Identifier.
+; = is Semicolon.
+} = is a Third Bracket Close.
+} = is a Third Bracket Close.
